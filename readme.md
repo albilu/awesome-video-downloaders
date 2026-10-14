@@ -9,6 +9,7 @@ Most entries are powered by [yt-dlp](https://github.com/yt-dlp/yt-dlp) under the
 - [Comparison at a glance](#comparison-at-a-glance)
 - [Cross-platform desktop GUIs](#cross-platform-desktop-guis)
 - [Windows-only desktop apps](#windows-only-desktop-apps)
+- [Linux-only desktop apps](#linux-only-desktop-apps)
 - [Android apps](#android-apps)
 - [Browser extensions and userscripts](#browser-extensions-and-userscripts)
 - [Self-hosted](#self-hosted)
@@ -173,7 +174,6 @@ _Desktop apps that ship for at least two of {Windows, macOS, Linux} — Electron
 - [BERNARDO31P/FastDownloader](https://github.com/BERNARDO31P/FastDownloader) - FastDownloader: A fast video/audio downloader for over 1800 websites!
 - [aliencaocao/ytdlp-gui](https://github.com/aliencaocao/ytdlp-gui) - A simple GUI for yt-dlp based on Tkinter, written in pure Python 3.
 - [markop404/media-downloader](https://github.com/markop404/media-downloader) - Web video/audio downloader.
-- [albilu/open-download-manager](https://github.com/albilu/open-download-manager) - Native GTK4 download manager for Linux combining aria2, yt-dlp and HTTrack with torrents, scheduling and Tor routing.
 
 ## Windows-only desktop apps
 
@@ -185,6 +185,12 @@ _Apps that build and ship for Windows only — WPF, WinForms, .NET, batch script
 - [legend2ks/YoutubeDownloader](https://github.com/legend2ks/YoutubeDownloader) - YouTube video/playlist/channel downloader.
 - [LeoTN/yt-dlp-autohotkey-gui](https://github.com/LeoTN/yt-dlp-autohotkey-gui) - This is a very basic GUI for the well known (YouTube) downloader yt-dlp.
 - [xniperbuilds/riplox-desktop](https://github.com/xniperbuilds/riplox-desktop) - Downloads links shared from your phone (Android share sheet or iPhone Shortcut) through an end-to-end encrypted relay, even if the PC was off when you sent them; also playlists, channels and new-upload tracking.
+
+## Linux-only desktop apps
+
+_Apps that build and ship for Linux only — GTK, Qt, and other native Linux toolkits._
+
+- [getodm/open-download-manager](https://github.com/getodm/open-download-manager) - GTK4 download manager combining yt-dlp, aria2 and HTTrack in one queue, with torrents, a weekly scheduler and Tor routing.
 
 ## Android apps
 
